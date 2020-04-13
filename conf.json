@@ -1,0 +1,11 @@
+{
+  "maxplayers": 1000,
+  "name": "Neptune Evo",
+  "gamemode": "roleplay",
+  "stream-distance": 500.0,
+  "announce": false,
+  "csharp": "enabled",
+  "voice-chat": true,
+  "language": "ru",
+  "port": 22005
+}

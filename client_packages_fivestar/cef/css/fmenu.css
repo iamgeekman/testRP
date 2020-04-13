@@ -1,0 +1,100 @@
+﻿.fmenu {
+    position: absolute;
+    width: 750px;
+    height: 550px;
+    left: 50%;
+    top: 50%;
+    margin-left: -375px;
+    margin-top: -275px;
+    font-family: "Ubuntu", sans-serif;
+}
+
+    .fmenu .right {
+        float: right;
+        width: 380px;
+        height: 550px;
+        background-color: #f2f1e9;
+        text-align: center;
+        overflow: hidden;
+        overflow-y:scroll;
+    }
+
+    .fmenu .left {
+        float: left;
+        width: 347px;
+        height: 550px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-image: url('../res/fmain.png');
+    }
+
+    .fmenu h1 {
+        background-color: #E74856;
+        color: white;
+        font-size: 14pt;
+        text-align: center;
+        text-transform: uppercase;
+        margin: 0;
+        padding: 16px;
+    }
+
+    .fmenu .btns {
+        margin-top: 30px;
+    }
+
+    .fmenu .btn {
+        padding: 10px;
+        padding-left: 30px;
+        font-size: 16pt;
+        cursor: pointer;
+    }
+
+        .fmenu .btn.active {
+            background-color: #e5e2c6;
+            border-bottom: 2px solid #bebdb7;
+        }
+
+    .fmenu table {
+        width: 100%;
+        padding: 10px;
+        font-size: 11pt;
+    }
+
+        .fmenu table th {
+            font-weight: normal;
+        }
+
+    .fmenu .info p {
+        display: inline-block;
+        margin-left: 40px;
+    }
+
+    .fmenu .online {
+        color: green
+    }
+
+    .fmenu .offline {
+        color: red
+    }
+
+    .fmenu .info span {
+        color: black
+    }
+
+    .fmenu .btn-submit {
+        background-color: #E74856;
+        margin: 10px;
+        margin-left: 55px;
+        padding: 10px;
+        width: 250px;
+        font-size: 15pt;
+        color: white;
+        cursor: pointer;
+    }
+
+    .fmenu input {
+        padding: 10px;
+        font-size: 15pt;
+        margin: 10px;
+        width: 250px;
+    }

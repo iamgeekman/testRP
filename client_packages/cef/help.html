@@ -1,0 +1,505 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>redage.net - Help menu</title>
+    <link rel="stylesheet" href="css/help.css">
+</head>
+<body style="display: none;">
+    <div class="wrapper">
+        <div class="block">
+            <div class="nav_bar">
+                <div id="menu" class="nav_buttons active first"><p>Новичку</p></div>
+                <div id="works" class="nav_buttons"><p>Работы</p></div>
+                <div id="commands" class="nav_buttons"><p>Команды</p></div>
+                <div id="fractions" class="nav_buttons"><p>Фракции</p></div>
+                <div id="help" class="nav_buttons last"><p>Помощь</p></div>
+            </div>
+            <div id="menu" class="content">
+                <a href="#"><div class="esc_button"><p>X</p></div></a>
+                
+                <div class="content_box">
+                    <img src="res/help/newcomer.png" alt="" width="335px" height="208px">
+                    <div class="text_block_menu">
+                    <p>
+                        Добро пожаловать! Первым делом стоит устроиться на одну из двух доступных на нулевом уровне игры работ: электрик или газонокосильщик.
+                        Для трудоустройства следует проехать в мэрию и подойти к персонажу Heady Hunter.
+                    </p>
+                    </div>
+                </div>
+            </div>
+            <div id="works" class="content hidden">
+                <a href="#"><div class="esc_button"><p>X</p></div></a>
+                
+                <div class="content_box_slider">
+                   
+                    <ul class="news">
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/grass_worker.png" alt="" width="335px" height="222px">
+                                <div class="text_block">
+                                    <p><span>Доступно: </span>с 0 уровня игры.</p>
+
+                                    <p><span>О работе: </span>простая и не пыльная работа по уборке территории</p>
+
+                                    <p><span>Зарплата: </span>2$ за контрольную точку</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/electric.png" alt="" width="335px" height="222px">
+                                <div class="text_block">
+                                    <p><span>Доступно: </span>с 0 уровня игры.</p>
+
+                                    <p><span>О работе: </span>замена и ремонт электрооборудования на электростанции</p>
+
+                                    <p><span>Зарплата: </span>7$ за контрольную точку</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/gopostal.png" alt="" width="335px" height="222px">
+                                <div class="text_block">
+                                    <p><span>Доступно: </span>с 1 уровня игры.</p>
+
+                                    <p><span>О работе: </span>развоз писем и корреспонденции по всему штату</p>
+
+                                    <p><span>Зарплата: </span>в среднем $1.700 за час игры</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/taxi.png" alt="" width="335px" height="222px">
+                                <div class="text_block">
+                                    <p><span>Доступно: </span>с 2 уровня игры.</p>
+
+                                    <p><span>О работе: </span>развоз людей по всему штату, в зависимости от заказа</p>
+                                    <p><span>/tprice [id] [цена]</span> - предложить игроку оплатить такси</p>
+                                    <p><span>/accept [id]</span> - принять заказ</p>
+
+                                    <p><span>Зарплата: </span>цена за один заказ может составлять от $20 до $200</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/bus.png" alt="" width="335px" height="222px">
+                                <div class="text_block">
+                                    <p><span>Доступно: </span>с 2 уровня игры.</p>
+
+                                    <p><span>О работе: </span>развоз людей по определенному маршруту от остановки до остановки</p>
+
+                                    <p><span>Зарплата: </span>в среднем $2000 за час игры</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/collector.png" alt="" width="335px" height="222px">
+                                <div class="text_block">
+                                    <p><span>Доступно: </span>с 3 уровня игры.</p>
+
+                                    <p><span>О работе: </span>развоз мешков с деньгами по банкоматам</p>
+
+                                    <p><span>Зарплата: </span>в среднем $2500 за час игры</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/mechanic.png" alt="" width="335px" height="222px">
+                                <div class="text_block">
+                                    <p><span>Доступно: </span>с 3 уровня игры.</p>
+
+                                    <p><span>О работе: </span>починка и заправа сломанных автомобилей</p>
+                                    <p><span>/repair [id] [цена] </span> - предложить починку автомобиля</p>
+                                    <p><span>/sellfuel [id] [литры] [цена/литр]</span> - предложить заправить автомобиль</p>
+                                    <p><span>/buyfuel [id] [литры]</span> - купить бензин для дальнейшей заправки им</p>
+
+                                    <p><span>Зарплата: </span>от $50 до $300 за заказ</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/trucker.png" alt="" width="335px" height="222px">
+                                <div class="text_block">
+                                    <p><span>Доступно: </span>с 4 уровня игры.</p>
+
+                                    <p><span>О работе: </span>развоз товаров на заказ для различных бизнесов</p>
+                                    <p><span>/orders </span> - открыть меню заказов</p>
+                                    <p><span>/t [сообщение]</span> - рация для дальнобойщиков</p>
+
+                                    <p><span>Зарплата: </span>от $500 до $2000 за заказ</p>
+                                </div>
+                            </div>
+                        </li>
+
+                    </ul>
+                    <div class="buttons_next_previous">
+                        <div class="prev">
+                            <img src="res/help/next_arrow.png" alt="" width="" height="" style="transform: scaleX(-1);">
+                            <p>назад</p>
+                        </div>
+                        <div class="next">
+                            <p>далее</p>
+                            <img src="res/help/next_arrow.png" alt="" width="" height="">
+                        </div>                       
+                    </div>
+                </div>
+                
+            </div>
+            <div id="commands" class="content hidden">
+                <a href="#"><div class="esc_button"><p>X</p></div></a>
+                
+                <div class="content_box_slider">
+
+                    <ul class="news">
+                        <li>
+                            <div class="slide">                           
+                                <div class="text_block_commands">
+                                    <p>/s - кричать</p>
+                                    <p>/me - описание действия от 1-го лица</p>
+                                    <p>/do - описание действия от 3-го лица</p>
+                                    <p>/b - OOC чат</p>
+                                    <p>/сtaxi - отменить вызов такси</p>
+                                    <p>/cmechanic - отменить вызов механика</p>
+                                    <p>/password - установить новый пароль</p>
+                                    <p>/sellbiz - продать бизнес</p>
+                                    <p>/buybiz - купить бизнес</p>
+                                    <p>/sellhouse - продать дом</p>
+                                    <p>/myguest - возможность заходить в дом без открытия дверей</p>
+                                </div>
+                            </div>
+                        </li>
+
+                    </ul>
+                    <div class="buttons_next_previous">
+                        <div class="prev">
+                            <img src="res/help/next_arrow.png" alt="" width="" height="" style="transform: scaleX(-1);">
+                            <p>назад</p>
+                        </div>
+                        <div class="next">
+                            <p>далее</p>
+                            <img src="res/help/next_arrow.png" alt="" width="" height="">
+                        </div>                       
+                    </div>
+                </div>
+                
+            </div>
+            <div id="fractions" class="content hidden">
+                <a href="#"><div class="esc_button"><p>X</p></div></a>
+                
+                <div class="content_box_slider">
+
+                    <ul class="news">
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/police.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>Общее</h1><br />
+                                    <p>На сервере реализованы 14 фракций: 5 банд, 4 мафии, LSPD, FIB, армия, EMS, правительство. Большинство взаимодействия во фракциях происходит через меню взаимодействия с другими игроками на кнопку G (нужно навестись на игрока)</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/police.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>FIB/LSPD</h1><br />
+                                    <p>"U" - бортовой компьютер</p>
+                                    <p>"X" - наручники</p>
+                                    <p>"Z" - конвоировать</p>
+                                    <p>/su - выдача розыска</p>
+                                    <p>/rfp - освободить из тюрьмы</p>
+                                    <p>/incar - затащить в машину</p>
+                                    <p>/pull - вытащить из машины</p><br />
+
+                                    <p><span>Доступно: </span>с 1 уровня</p><br />
+
+                                    <p><span>Условия трудоустройства: </span>не иметь связей с криминальным миром / не иметь судимостей / гражданство США / иметь образование / мед.справка о состоянии здоровья.</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/army.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>Армия</h1><br />
+
+                                    <p><span>Описание: </span>является сухопутными, а так же воздушными войсками. Армия находится в "Форт занкудо" перевозит материалы, охраняет базу, перевозит материалы и горючее.</p><br />
+
+                                    <p><span>Доступно: </span>с 1 уровня</p><br />
+
+                                    <p><span>Условия поступления на службу: </span>совершеннолетие / гражданство США / среднее образование / мед.справка о состоянии здоровья</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/ems.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>EMS</h1><br />
+
+                                    <p><span>Описание: </span>Служба спасения Лос-Сантоса оказывает помощь гражданам при заболеваниях, зависимости от наркотиков или алкоголя, травмах. Занимается перевозкой медикаментов</p><br />
+
+                                    <p><span>Доступно: </span>с 1 уровня</p><br />
+
+                                    <p><span>Условия трудоустройства: </span>гражданство США / высшее медицинское образование</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/government.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>Правительство</h1><br />
+
+                                    <p><span>Описание: </span>главная структура управления штата, состоит из министров и высших руководителей гос.служб, занимается руководством, проверкой, финансированием разных гос.проектов</p><br />
+
+                                    <p><span>Доступно: </span>с 1 уровня</p><br />
+
+                                    <p><span>Условия трудоустройства: </span>гражданство США / мед.справка о состоянии здоровья / образование не обязательно</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/mafia.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>Мафии</h1><br />
+
+                                    <p><span>/openstock</span> - открыть склад</p>
+                                    <p><span>/closestock</span> - закрыть склад</p>
+                                    <p><span>/bizwar</span> - начать войну за бизнесы</p><br />
+
+                                    <p>Крафт оружия происходит путем использования материалов в инвентаре</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/russian.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>Русская мафия</h1><br />
+
+                                    <p><span>Описание: </span>русская криминальная организация занимающаяся похищением людей, угоном машин, продажей оружия и крышеванием бизнесов, владеют стрип-клубом</p><br />
+
+                                    <p><span>Доступно: </span>с 1 уровня</p><br />
+
+                                    <p><span>Условия вступления: </span>нужно быть выходцем из СНГ стран, имеющем репутацию в криминальном мире</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/yakuza.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>Yakuza</h1><br />
+
+                                    <p><span>Описание: </span>японская криминальная организация занимающиеся крышеванием бизнесов, продажей недвижимости, мошенничеством в экономической сфере, вледеют баром "Tequi-la-la"</p><br />
+
+                                    <p><span>Доступно: </span>с 1 уровня</p><br />
+
+                                    <p><span>Условия вступления: </span>нужно быть выходцем из Японии</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/lcn.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>La Cosa Nostra</h1><br />
+
+                                    <p><span>Описание: </span>итальянская криминальная организация, давно закрепившаяся в Лос-Сантосе. Занимаются продажей не легального алкоголя, продажей оружия, похищением людей и ограблениями банков, владеют рестораном "Bahama Mamas West"</p><br />
+
+                                    <p><span>Доступно: </span>с 1 уровня</p><br />
+
+                                    <p><span>Условия вступления: </span>нужно быть выходцем из Италии</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/armenian.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>Armenian Mafia</h1><br />
+
+                                    <p><span>Описание: </span>армянская криминальная организация проживающая в Лос-Сантосе занимающаяся продажей наркотиков и рэкетом, владеют клубом "Split Sides West Comedy Club".</p><br />
+
+                                    <p><span>Доступно: </span>с 1 уровня</p><br />
+
+                                    <p><span>Условия вступления: </span>нужно быть выходцем из Армении</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/gangs.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>Банды</h1><br />
+
+                                    <p><span>/openstock</span> - открыть склад</p>
+                                    <p><span>/closestock</span> - закрыть склад</p>
+                                    <p><span>/capture</span> - начать войну за территории</p><br />
+
+                                    <p>Крафт оружия происходит путем использования материалов в инвентаре</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/families.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>The Families</h1><br />
+
+                                    <p><span>Описание: </span>Банда состоящая из чернокожих жителей гетто. Занимающаяся приступленими ради выживания: рэкет на улицах, продажей наркотиков, ограблениями магазинов. Носят (зеленый) отличительный цвет.</p><br />
+
+                                    <p><span>Доступно: </span>с 1 уровня</p><br />
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/ballas.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>The Ballas Gang</h1><br />
+
+                                    <p><span>Описание: </span>Банда состоящая из чернокожих жителей гетто. Занимающаяся преступлениями на улицах, ограблениями магазинов, продажей наркотиков и оружия. Носят (фиолетовый) отличительный цвет.</p><br />
+
+                                    <p><span>Доступно: </span>с 1 уровня</p><br />
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/bloods.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>Blood Street Gang</h1><br />
+
+                                    <p><span>Описание: </span>Банда состоящая из чернокожих жителей гетто. Определенно агрессивная группировка, занимается продажей наркотиков и оружия. Носят (красный) отличительный цвет.</p><br />
+
+                                    <p><span>Доступно: </span>с 1 уровня</p><br />
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/marabunta.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>Marabunta Grande</h1><br />
+
+                                    <p><span>Описание: </span>Выходцы и эмигранты с латинской америки и мексики. Занимаются наркотиками, оружием, нелегальным азартным бизнесом и заказными убийствами. Носят (голубой) отличительный цвет.</p><br />
+
+                                    <p><span>Доступно: </span>с 1 уровня</p><br />
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="slide">
+                                <img src="res/help/vagos.png" alt="" width="335px" height="94px">
+                                <div class="text_block">
+                                    <h1>Vagos Gang</h1><br />
+
+                                    <p><span>Описание: </span>Мексиканская уличная банда в Лос-Сантосе, контролирующая северную и восточную части города. Более жесткая своими принципами и нравом, имеют связи с мафиозными семьями, с головой вовлечены в торговлю наркотиками. Носят (желтый) отличительный цвет.</p><br />
+
+                                    <p><span>Доступно: </span>с 1 уровня</p><br />
+                                </div>
+                            </div>
+                        </li>
+
+                    </ul>
+                    <div class="buttons_next_previous">
+                        <div class="prev">
+                            <img src="res/help/next_arrow.png" alt="" width="" height="" style="transform: scaleX(-1);">
+                            <p>назад</p>
+                        </div>
+                        <div class="next">
+                            <p>далее</p>
+                            <img src="res/help/next_arrow.png" alt="" width="" height="">
+                        </div>                       
+                    </div>
+                </div>
+                
+            </div>
+            <div id="help" class="content hidden">
+                <a href="#"><div class="esc_button"><p>X</p></div></a>
+          
+                <div class="content_box_help">
+                    <img src="res/help/help.png" alt="" width="345px" height="200px">
+                    <p>Недоступно, пользуйтесь /report</p>
+                    <form action="">
+                        <input class="field" type="text" name="help">
+                        <input class="submit_button" type="submit" value="Отправить">
+                    </form>
+                </div>
+                
+                <!---<div class="admins_online">
+                    <p><span>В сети</span>: <b>0</b> администратора / <b>0</b> хелпера</p>
+                </div>--->
+                
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/slider.js"></script>
+    <script>
+        main('#works');
+        main('#commands');
+        main('#fractions');
+
+        $('.nav_buttons').click((e) => {
+            let id = e.currentTarget.id;
+            $('.content').addClass('hidden');
+            $(`#${id}.content`).removeClass('hidden');
+            $('.nav_buttons').removeClass('active');
+            $(`#${id}`).addClass('active');
+
+            if(id == 'help') mp.trigger('helpOnline');
+        });
+        $('.esc_button').click(() => {
+            show(false);
+            mp.trigger('helpClose')
+        })
+        function show(state){
+            if(state){
+                $('body').show();
+            } else {
+                $('body').hide();
+            }
+        }
+        function online(admins, helpers){
+            let es = $('.admins_online b');
+            es[0].innerHTML = admins;
+            es[1].innerHTML = helpers;
+        }
+    </script>
+</body>
+</html>

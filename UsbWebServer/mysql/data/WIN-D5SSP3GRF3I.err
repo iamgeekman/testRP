@@ -1,0 +1,25 @@
+2020-01-20 02:31:38 5856 [Note] Plugin 'FEDERATED' is disabled.
+2020-01-20 02:31:38 5856 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-01-20 02:31:38 5856 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-01-20 02:31:38 5856 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-01-20 02:31:38 5856 [Note] InnoDB: Not using CPU crc32 instructions
+2020-01-20 02:31:38 5856 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-01-20 02:31:38 5856 [Note] InnoDB: Completed initialization of buffer pool
+2020-01-20 02:31:38 5856 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-01-20 02:31:38 5856 [Note] InnoDB: Log scan progressed past the checkpoint lsn 23818823
+2020-01-20 02:31:38 5856 [Note] InnoDB: Database was not shutdown normally!
+2020-01-20 02:31:38 5856 [Note] InnoDB: Starting crash recovery.
+2020-01-20 02:31:38 5856 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-01-20 02:31:39 5856 [Note] InnoDB: Restoring possible half-written data pages 
+2020-01-20 02:31:39 5856 [Note] InnoDB: from the doublewrite buffer...
+InnoDB: Doing recovery: scanned up to log sequence number 23948310
+2020-01-20 02:31:39 5856 [Note] InnoDB: Starting an apply batch of log records to the database...
+InnoDB: Progress in percent: 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+InnoDB: Apply batch completed
+2020-01-20 02:31:40 5856 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-01-20 02:31:40 5856 [Note] InnoDB: Waiting for purge to start
+2020-01-20 02:31:40 5856 [Note] InnoDB: 5.6.13 started; log sequence number 23948310
+2020-01-20 02:31:40 5856 [Note] Server hostname (bind-address): '*'; port: 3306
+2020-01-20 02:31:40 5856 [Note] IPv6 is available.
+2020-01-20 02:31:40 5856 [Note]   - '::' resolves to '::';
+2020-01-20 02:31:40 5856 [Note] Server socket created on IP: '::'.

@@ -1,0 +1,174 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/chat.css">
+    <link rel="stylesheet" href="css/hud.css">
+    <link rel="stylesheet" href="fonts/notify.css">
+    <link rel="stylesheet" href="css/noty.css" />
+    <link rel="stylesheet" href="css/theme.css" />
+    <style>
+        #effect {
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+        .inpocket {
+            background-image: url('res/inpocket.png');
+            background-repeat: no-repeat;
+            background-position: center;
+            height: 100%;
+            position: absolute;
+        }
+
+        .help {
+            position: absolute;
+            left: 1%;
+            bottom: 25%;
+        }
+
+            .help p {
+                font-size: 12pt;
+                font-weight: 600;
+                margin: 0;
+                color: white;
+                text-shadow: 1px 1px 5px black,1px 1px 5px black;
+            }
+
+        .info {
+            position: absolute;
+            bottom: 10px;
+            width: 100%;
+            text-align: center;
+            font-size: 10pt;
+            font-weight: 600;
+            color: white;
+            text-shadow: 1px 1px 5px black,1px 1px 5px black;
+        }
+    </style>
+    <title>HUD</title>
+</head>
+<body>
+    <div class="help">
+        <p>N - Микрофон</p>
+        <p>I - Инвентарь</p>
+        <p>M - Телефон</p>
+        <p>U - Анимации</p>
+        <p>B - Завести машину</p>
+        <p>L - Закрыть/открыть авто</p>
+        <p>5 - Никнеймы</p>
+        <p>6 - Круиз-контроль</p>
+        <p>F5 - Скрыть HUD</p>
+        <p>F9 - Донат панель</p>
+        <p>F10 - Помощь</p>
+        <p>Ё(~) - Курсор</p>
+    </div>
+    <div id="chat" class="chat">
+        <ul id="chat_messages"></ul>
+    </div>
+
+    <div class="grade" v-if="show">
+        <div class="car_info" :style="{ opacity: inVeh ? 1 : 0 }">
+            <div class="left_status_car">
+                <div class="fuel_info">
+                    <img v-if="ifuel == 2" src="res/fuel_g.png">
+                    <img v-if="ifuel == 1" src="res/fuel_y.png">
+                    <img v-if="ifuel == 0" src="res/fuel_r.png">
+                    <p class="text_fuel">{{fuel}} L   </p>
+                </div>
+                <div class="car_status">
+                    <div class="speed_status" v-bind:style="{ color: cruiseColor }">
+                        <p>Speed: </p>
+                        <p>{{speed}} км/ч</p>
+                    </div>
+                    <div class="hp_status">
+                        <p>HP Car: </p>
+                        <p>{{hp}}%</p>
+                    </div>
+                </div>
+            </div>
+            <div class="right_status_car">
+                <div class="engine">
+                    <img v-if="engine" src="res/engine_on.png">
+                    <img v-else src="res/engine_off.png">
+                </div>
+                <div class="lock">
+                    <img v-if="doors" src="res/doors_open.png">
+                    <img v-else src="res/doors_closed.png">
+                </div>
+            </div>
+        </div>
+
+        <div class="client_info">
+            <div class="client_ammo" :style="{ opacity: (ammo>0) ? 1 : 0 }">
+                <img src="res/ammo.png" width="20px" height="30px">
+                <p>{{ammo}}</p>
+            </div>
+            <div class="status_player">
+                <div class="money">
+                    <div class="nal">
+                        <img src="res/wallet.png" width="22px" height="22px">
+                        <p>$ {{money}}</p>
+                    </div>
+                    <div class="bank">
+                        <p>       BANK: </p>
+                        <p>$ {{bank}}</p>
+                    </div>
+                </div>
+                <div class="mic">
+                    <img v-if="mic" src="res/mic_on.png" width="30px" height="40px">
+                    <img v-else src="res/mic_off.png" width="30px" height="40px">
+                </div>
+                <div class="data_time">
+                    <div class="clock">
+                        <img src="res/clock.png" width="38px" height="38px">
+                    </div>
+                    <div class="text_d_t">
+                        <p>{{time}}</p>
+                        <p class="text_data">{{date}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="logobox" v-if="show">
+        <div class="logo">
+            <img src="res/wm1.png" width="20px" height="20px" alt="logo">
+            <p>GTAFIVESTAR.RU</p>
+        </div>
+        <div class="players_online">
+            <p>Онлайн</p>
+            <span><p>{{online}}/1300</p></span>
+        </div>
+    </div>
+
+    <div id="effect"></div>
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/vue.js"></script>
+    <script src="js/hud.js"></script>
+    <script src="js/chat.js"></script>
+    <script src="js/noty.min.js"></script>
+    <script src="js/notify.js"></script>
+    <script>
+        function hidehud(toggle) {
+            if (toggle) {
+                HUD.show = false;
+                WaterMark.show = false;
+            } else {
+                HUD.show = true;
+                WaterMark.show = true;
+            }
+        }
+        function hidehelp(toggle) {
+            if (toggle) {
+                $('.help').hide();
+            } else {
+                $('.help').show();
+            }
+        }
+    </script>
+</body>
+</html>

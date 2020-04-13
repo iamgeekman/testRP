@@ -1,0 +1,190 @@
+D:\Desktop\S&C side\S side\NeptuneEvo\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+D:\Desktop\S&C side\S side\NeptuneEvo\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CoreCompileInputs.cache
+D:\Desktop\S&C side\S side\NeptuneEvo\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+D:\Desktop\S&C side\S side\NeptuneEvo\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\meta.xml
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.deps.json
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.pdb
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.dll
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\ServiceData.dll
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.pdb
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CoreCompileInputs.cache
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CopyComplete
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.dll
+D:\Games\RAGE MP\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.pdb
+D:\321\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\meta.xml
+D:\321\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.deps.json
+D:\321\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll
+D:\321\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.pdb
+D:\321\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+D:\321\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.dll
+D:\321\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\ServiceData.dll
+D:\321\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.pdb
+D:\321\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+D:\321\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+D:\321\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+D:\321\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CopyComplete
+D:\321\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.dll
+D:\321\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.pdb
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\meta.xml
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.deps.json
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.pdb
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.dll
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\ServiceData.dll
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.pdb
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.dll
+C:\Users\Xiaomi\Desktop\Shade RP\server-files\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.pdb
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\meta.xml
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.deps.json
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.pdb
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.dll
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\ServiceData.dll
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.pdb
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.dll
+C:\Users\Xiaomi\Desktop\GTAShade.com\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.pdb
+D:\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\meta.xml
+D:\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.deps.json
+D:\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll
+D:\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.pdb
+D:\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+D:\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.dll
+D:\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\ServiceData.dll
+D:\GTAShade.com\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.pdb
+D:\GTAShade.com\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+D:\GTAShade.com\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+D:\GTAShade.com\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+D:\GTAShade.com\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CopyComplete
+D:\GTAShade.com\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.dll
+D:\GTAShade.com\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.pdb
+D:\boost rp\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\meta.xml
+D:\boost rp\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.deps.json
+D:\boost rp\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll
+D:\boost rp\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.pdb
+D:\boost rp\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+D:\boost rp\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.dll
+D:\boost rp\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\ServiceData.dll
+D:\boost rp\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.pdb
+D:\boost rp\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+D:\boost rp\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+D:\boost rp\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+D:\boost rp\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CopyComplete
+D:\boost rp\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.dll
+D:\boost rp\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.pdb
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\meta.xml
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.deps.json
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.pdb
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.dll
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\ServiceData.dll
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.pdb
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CopyComplete
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.dll
+T:\RageMpServers\RageRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.pdb
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\meta.xml
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.deps.json
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.pdb
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.dll
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\ServiceData.dll
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.pdb
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CopyComplete
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.dll
+T:\RageMpServers\AmethystHRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.pdb
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.dll
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.pdb
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\meta.xml
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.deps.json
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.pdb
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.dll
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\ServiceData.dll
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.pdb
+T:\RageMpServers\WarzoneRPG\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CopyComplete
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\meta.xml
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.deps.json
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.pdb
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.dll
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\ServiceData.dll
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.pdb
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CopyComplete
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.dll
+T:\RageMpServers\NeptuneEvo\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.pdb
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\meta.xml
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.deps.json
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.pdb
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.dll
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\ServiceData.dll
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.pdb
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CopyComplete
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.dll
+C:\Users\user\Desktop\RedAgeRP\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.pdb
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\meta.xml
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.deps.json
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.pdb
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.dll
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\ServiceData.dll
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.pdb
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CopyComplete
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.dll
+C:\Users\user\Desktop\RedAgeRP - kopie\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.pdb
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\meta.xml
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.deps.json
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.dll
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvo.pdb
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.dll
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\ServiceData.dll
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\bin\Debug\netcoreapp2.0\NeptuneEvoSDK.pdb
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csprojAssemblyReference.cache
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CoreCompileInputs.cache
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfoInputs.cache
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.AssemblyInfo.cs
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.csproj.CopyComplete
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.dll
+D:\REDAGE SERVER FILES\RedAgeRP\bridge\resources\NeptuneEvo\obj\Debug\netcoreapp2.0\NeptuneEvo.pdb
